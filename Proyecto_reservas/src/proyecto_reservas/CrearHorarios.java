@@ -19,7 +19,7 @@ import java.util.Scanner;
 public class CrearHorarios {
 
     public static boolean comprobarFecha(String entrada) {
-
+//HOLA ESTO EN UN COMENTARIO
         if (entrada.equals("")) {
             return false;
         } else {

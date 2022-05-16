@@ -9,6 +9,9 @@ public class NewMain {
 
     public static void main(String[] args) {
         CrearHorarios.ContructorHorarios();
+        //hola 
+        boolean soy;
+        
         //Reservar.CrearReserva();
     }
 
